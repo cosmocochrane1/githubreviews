@@ -1,0 +1,10 @@
+{
+	"local": {
+		"PORT": 3000,
+		"MONGODB_URI": "mongodb://localhost:27017/githubapp",
+		"JWT_SECRET": "posjdfnjskdnfjkn1jk3n1we1343"
+	},
+	"development": {
+		"JWT_SECRET": "posdfjsndasdnge9912nf35sddr42"
+	}
+}
